@@ -1,0 +1,3 @@
+class {
+	private Integer deptno ;
+}
